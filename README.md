@@ -94,6 +94,10 @@ Unlike generative AI chatbots, DecodeBot does not require an external AI API or 
 | Technology | APIs, Algorithms, Cloud Computing, Cybersecurity |
 | General Conversation | Greetings, Jokes, Facts, Motivation |
 
+## 🌐 Live Demo
+
+[Try DecodeBot] (https://decodebot-hffmvj7umtcz9vrbap57tf.streamlit.app/)
+
 ## 👩‍💻 Developer
 
 **Hijab Zahra**
